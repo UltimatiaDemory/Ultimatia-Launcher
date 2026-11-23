@@ -1,2 +1,2 @@
 # Ultimatia-Launcher
-lAUNCHER
+launcher
